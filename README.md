@@ -2,10 +2,12 @@
 
 
 ## 🌱 최근 관심 있는 분야
-- FE에서 좋은 사용자 로그 쌓기 (e.g., Sentry)
+- Nest
 - React-Native
 ---      
-
+## Blog & Notion
+- [velog](https://velog.io/@redstone)
+- [notion](https://working-rook-e68.notion.site/10aaac52d50980f0a065ecd2f6affa1f?pvs=4)
 ## ⚡ Tech Stack
 
 ### Languages:
